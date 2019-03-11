@@ -12,4 +12,7 @@ No need to seperately definr the resolution of video, Code automically read the 
 
 https://github.com/RishuBagla/Object-detection/issues/1#issuecomment-471616296
 
+Human Detection trained model can be downloaded from following link-
+https://drive.google.com/open?id=1mCUCPjSGyTDEY0CjF9jWfc5n6qiNlezX
+
 
