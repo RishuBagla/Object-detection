@@ -9,4 +9,6 @@ We used faster R-CNN to trained our model for human detection on Aerial video (u
 In this code we used opencv library to read, process and save video. Trained video will be automicaly saved on defined location. 
 No need to seperately definr the resolution of video, Code automically read the frame shape, height, width of the input video.
 
+https://github.com/RishuBagla/Object-detection/issues/1#issuecomment-471616296
+
 
